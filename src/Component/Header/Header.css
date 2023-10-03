@@ -1,0 +1,12 @@
+nav a{
+    margin-left: 10px;
+}
+nav a.active{
+    text-decoration: underline;
+    background: rgb(91, 104, 91);
+    color: rgb(255, 255, 255);
+    /* padding-left:10px ;
+    padding-right: 10px; */
+    padding: 10px;
+    border-radius: 5px;
+}
